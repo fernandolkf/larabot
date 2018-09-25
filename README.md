@@ -1,2 +1,9 @@
-# larabot
-A bot to search for kids events in Florianopolis
+# LaraBot
+
+A Telegram bot to send kids events of Florianopolis city.
+
+Search for @LaraFloripaBot at Telegram chat.
+
+Build with python-telegram-bot and Scrapy
+
+
